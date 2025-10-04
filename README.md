@@ -94,24 +94,6 @@ The PCB was designed in <b>KiCad</b> following standard embedded design practice
 
 <hr>
 
-<h2>📂 Repository Structure</h2>
-<pre>
-STM32F103C8T6-PCB/
-├── Schematic/
-│   └── Project4.kicad_sch
-├── PCB/
-│   └── Project4.kicad_pcb
-├── Images/
-│   ├── PCB_Layout.png
-│   ├── 3D_View.png
-│   └── Schematic.png
-├── Gerbers/
-│   └── (Generated output files)
-└── README.html
-</pre>
-
-<hr>
-
 <h2>🧠 Learnings</h2>
 <p>
 This project helped reinforce key embedded hardware design concepts:
