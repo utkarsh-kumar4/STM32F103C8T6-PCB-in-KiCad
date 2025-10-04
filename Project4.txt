@@ -1,0 +1,66 @@
+Info: Total warnings: 0, errors: 0.
+Info: Processing symbol 'C1:Capacitor_SMD:C_0805_2012Metric'.
+Info: Processing symbol 'C3:Capacitor_SMD:C_0603_1608Metric'.
+Info: Processing symbol 'C4:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C5:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C6:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C7:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C8:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C9:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C10:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C11:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'C12:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'Y1:Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm'.
+Info: Processing symbol 'U2:Package_QFP:LQFP-48_7x7mm_P0.5mm'.
+Info: Processing symbol 'U1:Package_TO_SOT_SMD:SOT-223-3_TabPin2'.
+Info: Processing symbol 'SW1:Button_Switch_THT:SW_E-Switch_EG1224_SPDT_Angled'.
+Info: Processing symbol 'R5:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R4:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R3:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R2:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'R1:Resistor_SMD:R_0402_1005Metric'.
+Info: Processing symbol 'C13:Capacitor_SMD:C_0402_1005Metric'.
+Info: Processing symbol 'J4:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'D1:LED_SMD:LED_0603_1608Metric'.
+Info: Processing symbol 'FB1:Inductor_SMD:L_0603_1608Metric'.
+Info: Processing symbol 'J1:Connector_USB:USB_Micro-B_Wuerth_629105150521'.
+Info: Processing symbol 'J3:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'J2:Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical'.
+Info: Processing symbol 'C2:Capacitor_SMD:C_0805_2012Metric'.
+Reconnected J1 pin 6 from unconnected-(J4-Shield-Pad6)_2 to unconnected-(J1-Shield-Pad6)_2.
+Add net unconnected-(J1-Shield-Pad6)_2.
+Add net unconnected-(J1-Shield-Pad6)_1.
+Reconnected J1 pin 6 from unconnected-(J4-Shield-Pad6) to unconnected-(J1-Shield-Pad6).
+Add net unconnected-(J1-Shield-Pad6)_3.
+Reconnected J1 pin 6 from unconnected-(J4-Shield-Pad6)_3 to unconnected-(J1-Shield-Pad6)_3.
+Add net unconnected-(J1-ID-Pad4).
+Reconnected J1 pin 4 from unconnected-(J4-ID-Pad4) to unconnected-(J1-ID-Pad4).
+Add net unconnected-(J1-Shield-Pad6).
+Changed J1 reference designator to J2.
+Changed J4 reference designator to J1.
+Changed C8 reference designator to C13.
+Changed J2 reference designator to J4.
+Changed C5 reference designator to C12.
+Changed C4 reference designator to C11.
+Changed R4 reference designator to R2.
+Changed C13 reference designator to C10.
+Changed R5 reference designator to R3.
+Changed C12 reference designator to C9.
+Changed R2 reference designator to R4.
+Changed C11 reference designator to C8.
+Changed R3 reference designator to R5.
+Changed C10 reference designator to C7.
+Changed C9 reference designator to C6.
+Changed C7 reference designator to C5.
+Changed C6 reference designator to C4.
+Removed unused net unconnected-(J4-ID-Pad4).
+Removed unused net unconnected-(J4-Shield-Pad6).
+Removed unused net unconnected-(J4-Shield-Pad6)_1.
+Removed unused net unconnected-(J4-Shield-Pad6)_2.
+Removed unused net unconnected-(J4-Shield-Pad6)_3.
+
+
+Reconnected J1 pin 6 from unconnected-(J4-Shield-Pad6)_1 to unconnected-(J1-Shield-Pad6)_1.
+
+
+Info: Total warnings: 0, errors: 0.
