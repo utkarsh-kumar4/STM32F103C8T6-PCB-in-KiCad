@@ -128,19 +128,6 @@ It also provided insight into the workflow of transforming a schematic into a pr
 
 <hr>
 
-<h2>📈 Comparison & Applications</h2>
-<p>
-Compared to boards like the Arduino Uno (ATmega328P), this STM32F103C8T6 design offers:
-<ul>
-  <li>Higher clock speed (72 MHz vs 16 MHz)</li>
-  <li>Native USB interface</li>
-  <li>Advanced peripherals and low power modes</li>
-</ul>
-Applications include motor control, data logging, sensor interfacing, and custom controller units.
-</p>
-
-<hr>
-
 <h2>📷 Project Images</h2>
 <h3>🔹 Schematic Design</h3>
 <img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/Schematic%20Design.png" width="700">
