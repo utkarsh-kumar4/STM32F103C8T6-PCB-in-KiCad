@@ -1,9 +1,5 @@
 <h1 align="center">⚙️ STM32F103C8T6 Custom PCB in Kicad</h1>
 
-<p align="center">
-  <i>Compact, reliable, and production-ready STM32F103C8T6 microcontroller board with USB, UART, SWD, and I2C interfaces.</i>
-</p>
-
 <hr>
 
 <h2>📘 Overview</h2>
@@ -112,13 +108,13 @@ It also provided insight into the workflow of transforming a schematic into a pr
 
 <h2>📷 Project Images</h2>
 <h3>🔹 Schematic Design</h3>
-<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/Schematic%20Design.png" width="700">
+<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/Schematic%20Design.png">
 
 <h3>🔹 PCB Layout</h3>
-<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/PCB%20Layout.png" width="700">
+<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/PCB%20Layout.png">
 
 <h3>🔹 3D Board View</h3>
-<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/3D%20Board%20View.png" width="700">
+<img src="https://github.com/utkarsh-kumar4/STM32F103C8T6-PCB-in-KiCad/blob/main/3D%20Board%20View.png">
 
 ## Author 👤
 [Utkarsh Kumar](https://github.com/utkarsh-kumar4) 👨🏻‍💻🎓
