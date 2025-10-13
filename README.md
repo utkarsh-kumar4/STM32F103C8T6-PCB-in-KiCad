@@ -1,7 +1,5 @@
 <h1 align="center">⚙️ STM32F103C8T6 Custom PCB in Kicad</h1>
 
-<hr>
-
 <h2>📘 Overview</h2>
 <p>
 This project presents a fully designed and routed PCB based on the <b>STM32F103C8T6</b> microcontroller — a popular ARM Cortex-M3 based MCU used widely in embedded systems, control units, and IoT applications. 
